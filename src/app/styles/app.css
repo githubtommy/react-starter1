@@ -1,0 +1,19 @@
+body {
+	font-family: "Helvetica Neue";
+	font-size: 14px;
+	line-height: 16px;
+	margin-left: 10px;
+}
+
+li {
+	padding: 5px 0;
+}
+
+.home-body {
+	max-width: 600px;
+	line-height: 24px;
+}
+
+h1 {
+	padding: 18px 0 12px 0;
+}
